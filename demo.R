@@ -2,7 +2,7 @@
 # Introduce the concept of telling the data narative through plots
 #
 # Copyright 2018 Graham.Williams@togaware.com
-library(glue) # Format strings: glue().
+
 library(mlhub)
 
 mlcat("Visualising the Australian Ports Dataset",
