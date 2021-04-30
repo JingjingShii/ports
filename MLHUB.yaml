@@ -32,3 +32,4 @@ dependencies:
 commands:
   demo  : Step through the various plots.
   print : Display the actual code.
+  
